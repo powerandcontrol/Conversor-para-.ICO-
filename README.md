@@ -15,6 +15,7 @@ Este script em Python permite que você crie ícones a partir de imagens.
 ## Requisitos
 
 - Python 3.x
+- Tkinter
 - Pillow
 
 ## Licença
