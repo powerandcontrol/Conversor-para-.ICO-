@@ -6,7 +6,7 @@ Este script em Python permite que você crie ícones a partir de imagens.
 
 1. Baixe o código fonte.
 2. Instale as dependências executando `pip install Pillow`.
-3. Execute o script `criador_de_icones.py`.
+3. Execute o script `conversor.py`.
 4. Selecione a imagem desejada.
 5. Escolha o local para salvar o ícone.
 6. Clique em "Criar Ícone".
